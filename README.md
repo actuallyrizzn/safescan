@@ -1,6 +1,3 @@
-Of course! Here's the revised README.md content with corrected formatting:
-
-```markdown
 # Gnosis Safe Address Fetcher
 
 This Python script interacts with the Etherscan API to fetch information about Gnosis Safe addresses created by a specified factory contract.
